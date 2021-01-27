@@ -1,5 +1,5 @@
 Hello World
 Goodbye 
 see you later
-<<<<<<< HEAD
 welcome back
+Bye Bye
